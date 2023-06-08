@@ -2,7 +2,7 @@ git commit -m "pseudocode for finding the largest number" --date="2023-06-05 15:
 git commit -m "now for our commited work" --date="2023-06-06 15:11:24"
 git commit -m "w are getting gg tere boss" --date="2023-06-06 15:11:24"
 
-git commit --date="2023-06-08T14:25:00" -m "June 8"
+git commit --date="2023-06-08T14:25:00" -m "Use the max() function to find the maximum number"
 git commit --date="2023-06-13T09:37:00" -m "June 13"
 git commit --date="2023-06-21T17:15:00" -m "June 21"
 git commit --date="2023-06-30T11:46:00" -m "June 30"
