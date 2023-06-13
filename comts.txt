@@ -3,7 +3,7 @@ git commit -m "now for our commited work" --date="2023-06-06 15:11:24"
 git commit -m "w are getting gg tere boss" --date="2023-06-06 15:11:24"
 
 git commit --date="2023-06-08T14:25:00" -m "Use the max() function to find the maximum number"
-git commit --date="2023-06-13T09:37:00" -m "June 13"
+git commit --date="2023-06-13T09:37:00" -m "Spathiphyllum is the best plant ever!"
 git commit --date="2023-06-21T17:15:00" -m "June 21"
 git commit --date="2023-06-30T11:46:00" -m "June 30"
 git commit --date="2023-07-05T08:03:00" -m "July 5"
