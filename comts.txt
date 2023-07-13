@@ -11,7 +11,7 @@ git commit --date="2023-06-30T11:46:00" -m "Gregorian calendar"
 git commit --date="2023-07-05T08:03:00" -m "Using a while loop"
 git commit --date="2023-07-06T08:03:00" -m "better conditions"
 
-git commit --date="2023-07-13T13:48:00" -m "July 13"
+git commit --date="2023-07-13T13:48:00" -m "The magician and the muggle"
 git commit --date="2023-07-22T18:55:00" -m "July 22"
 git commit --date="2023-07-27T10:20:00" -m "July 27"
 git commit --date="2023-08-03T15:17:00" -m "August 3"
