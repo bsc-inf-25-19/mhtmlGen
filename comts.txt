@@ -18,6 +18,8 @@ git commit --date="2023-08-03T15:17:00" -m "back together break continue"
 git commit --date="2023-08-10T12:33:00" -m "i see dead people"
 git commit --date="2023-08-18T09:44:00" -m "Eat vowels with continue fn"
 git commit --date="2023-08-25T20:15:00" -m "proper implementation of verbally defined rules"
+git commit --date="2023-08-26T20:15:00" -m "refined verbally defined rules"
+
 git commit --date="2023-09-04T07:29:00" -m "September 4"
 git commit --date="2023-09-09T18:07:00" -m "September 9"
 git commit --date="2023-09-15T16:52:00" -m "September 15"
